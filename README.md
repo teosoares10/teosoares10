@@ -1,4 +1,6 @@
-![Teodoro-Pedro-Github-Banner](github-header-image.png)
+<div style="width">
+  <img src="github-header-image.png" width="1000" />
+</div>
 
 # Hey, I'm Teodoro Pedro
 
