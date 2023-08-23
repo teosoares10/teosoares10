@@ -1,4 +1,4 @@
-![Teodoro-Pedro-Github-Banner](banner.png)
+![Teodoro-Pedro-Github-Banner](github-header-image.png)
 
 # Hey, I'm Teodoro Pedro
 
