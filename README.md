@@ -1,11 +1,11 @@
-<div style="">
+<div>
   <img src="github-header-image.png" width="1000" />
 </div>
 
 # Hey, I'm Teodoro Pedro
 
 <div>
-  <a href="emailto:teosoare10@gmail.com">
+  <a href="mailto:teosoare10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
   <a href="https://www.linkedin.com/in/teodoropedro10/">
