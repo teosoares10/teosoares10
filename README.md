@@ -4,12 +4,15 @@
 
 # Hey, I'm Teodoro Pedro
 
-<a href="emailto:teosoare10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-</a>
-<a href="https://www.linkedin.com/in/teodoropedro10/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN Badge" />
-</a>
+<div>
+  <a href="emailto:teosoare10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/teodoropedro10/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN Badge" />
+  </a>
+  
+</div>
 
 I'm passionate about Frontend, all the graphical part of the application, working with fonts, colors, interactivity... I'm currently work with React.js and Next.js to create accessible and beautful web apps and sites.
 
