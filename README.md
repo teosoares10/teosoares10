@@ -1,7 +1,3 @@
-<div>
-  <img src="github-header-image.png" width="1000" />
-</div>
-
 # Hey, I'm Teodoro Pedro
 
 <div>
