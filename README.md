@@ -1,5 +1,9 @@
 # Hey, I'm Teodoro Pedro
 
+<p style='margin-top: 2rem;'>
+  I'm passionate about Frontend, all the graphical part of the application, working with fonts, colors, interactivity... I'm currently work with React.js and Next.js to create accessible and beautful web apps and sites.
+</p>
+
 <div>
   <a href="mailto:teosoare10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
@@ -9,8 +13,6 @@
   </a>
   
 </div>
-
-I'm passionate about Frontend, all the graphical part of the application, working with fonts, colors, interactivity... I'm currently work with React.js and Next.js to create accessible and beautful web apps and sites.
 
 ## Languages & Tools
 
