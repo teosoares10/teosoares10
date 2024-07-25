@@ -1,7 +1,7 @@
 # Hey, I'm Teodoro Pedro
 
 <p style='margin-top: 2rem;'>
-  I'm passionate about Frontend, all the graphical part of the application, working with fonts, colors, interactivity... I'm currently work with React.js and Next.js to create accessible and beautful web apps and sites.
+  I'm passionate about Software Engineer, all the graphical part of the application, working with fonts, colors, interactivity... I'm currently work with React.js and Next.js to create accessible and beautful web apps and sites.
 </p>
 
 <div>
