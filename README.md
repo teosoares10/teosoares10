@@ -1,33 +1,16 @@
-# Hey, I'm Teodoro Pedro
+## 👋 Hello, I'm Teodoro Pedro
 
-<p style='margin-top: 2rem;'>
-  I'm passionate about Software Engineer, all the graphical part of the application, working with fonts, colors, interactivity... I'm currently work with React.js and Next.js to create accessible and beautful web apps and sites.
-</p>
+I'm a software eng with a strong interest in building robust, scalable applications guided by solid architectural principles. I enjoy working with modern technologies and am always looking to grow as a professional and deliver value through clean, purposeful code.
 
-<div>
-  <a href="mailto:teosoare10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/teodoropedro10/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LINKEDIN Badge" />
-  </a>
-  
-</div>
+I have experience in backend development and systems integration, and I’ve collaborated with multidisciplinary teams on real-world projects that impact both people and businesses.
+🚀 Technologies I’ve worked with
 
-## Languages & Tools
+  - **Languages & Frameworks:** TypeScript · JavaScript · Next.js · Node.js · NestJS · React.js
 
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind-css Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next Badge](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Jest Badge](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![ESLINT Badge](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier Badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Markdow Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![FIT Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
-![PRISMA Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+  - **Databases:** PostgreSQL · MySQL
+
+  - **Others:** Docker · Git · REST APIs · GitHub Actions · CI/CD · AWS
+
+---
+
+📫 Get in touch with me on [LinkedIn](https://linkedin.com/in/teosoares10)
